@@ -1,0 +1,11 @@
+{
+  "name": "usl",
+  "version": "0.2.0",
+  "description": "USL Package for ATOM",
+  "repository": "https://github.com/usl-org/usl.tooling.ide-plugins.atom-usl",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {}
+}
